@@ -1,0 +1,16 @@
+[
+{
+  "modid": "basemod",
+  "name": "ilr base",
+  "description": "#1 client base!!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ilr"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
