@@ -1,2 +1,2 @@
 # MixinReady-forge-base
-awesome sauce
+minecraft 1.8.9 forge mod base, that already has mixins ready to rumble
